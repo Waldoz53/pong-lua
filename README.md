@@ -4,11 +4,11 @@ A simple pong clone built entirely in Lua with no image assets.
 Requires LOVE2D to run.
 
 ## To-Do List
-1. Add ball movement
-2. Make sure ball stays within game area
-3. Add collision detection for the ball + paddles
-4. Check to see if ball touching the left or right sides leads to a goal
-5. Add scoring
+1. ~~Add ball movement~~ DONE!
+2. ~~Make sure ball stays within game area~~ DONE!
+3. ~~Add collision detection for the ball + paddles~~ DONE!
+4. ~~Check to see if ball touching the left or right sides leads to a goal~~ DONE!
+5. ~~Add scoring~~ DONE!
 6. Add sound.
 7. 
 
