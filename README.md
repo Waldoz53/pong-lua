@@ -9,7 +9,10 @@ Requires LOVE2D to run.
 3. Add collision detection for the ball + paddles
 4. Check to see if ball touching the left or right sides leads to a goal
 5. Add scoring
+6. Add sound.
+7. 
 
 ### Extra features to add
 1. On the press of a button, the right paddle can become an AI paddle
-2. Convert to WebGL format OR upload to Itch.io
+2. Convert to WebGL format
+3. 
